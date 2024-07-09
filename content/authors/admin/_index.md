@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 杨子
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Doris yangzai
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zi
+last_name: Yang
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Project Manager
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Zeeker
+    url: https://www.zeekrlife.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,6 +50,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Music
 
 education:
   - area: PhD Artificial Intelligence
